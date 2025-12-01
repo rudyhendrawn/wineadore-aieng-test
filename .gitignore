@@ -1,3 +1,7 @@
+# Large files on datasets directory
+datasets/rees46_customer_model.csv
+datasets/rees46_customer_model.parquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
