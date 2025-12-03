@@ -2,6 +2,13 @@
 datasets/rees46_customer_model.csv
 datasets/rees46_customer_model.parquet
 
+# MacOS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
